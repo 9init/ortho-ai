@@ -6,7 +6,7 @@ Welcome to Ortho AI! This repository contains code and data for training models 
 
 To get started, you'll need to download the classified images. You can download them from the following link:
 
-[Download Classified Images](https://www.dropbox.com/scl/fi/9md9zf0dvxxz5z3553t4d/processed_images.zip?rlkey=4n1xlgaw4bco0mq7ey25ekl2m&e=1&st=zcyll8pz&dl=0)
+[Download Classified Images](https://www.dropbox.com/scl/fi/5l0o6aqq98kfnxnjc5ndw/processed_images.zip?rlkey=n7eo7vvqcvmjes6mhljyt0amp&st=nkoh1yld&dl=0)
 
 If you prefer to work with the full uncleaned data, you can download it from this link, but you will need to clean it yourself, its about 16k images:
 
